@@ -11,6 +11,7 @@ namespace TestGit
         static void Main(string[] args)
         {
             Console.WriteLine("Второй коммит");
+            Console.WriteLine("Третий коммит");
         }
     }
 }
