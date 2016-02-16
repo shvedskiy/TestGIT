@@ -8,5 +8,9 @@ namespace TestGit
 {
     class ClassDeveloper2
     {
+        void Message(string set)
+        {
+            
+        }
     }
 }
