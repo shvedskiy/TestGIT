@@ -12,6 +12,8 @@ namespace TestGit
         {
             Console.WriteLine("Maine write");
             Console.WriteLine("Maine write2");
+            Console.WriteLine("Второй коммит");
+            Console.WriteLine("Третий коммит");
         }
     }
 }
