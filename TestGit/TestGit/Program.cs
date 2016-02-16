@@ -11,6 +11,7 @@ namespace TestGit
         static void Main(string[] args)
         {
             Console.WriteLine("Maine write");
+            Console.WriteLine("Maine write2");
         }
     }
 }
