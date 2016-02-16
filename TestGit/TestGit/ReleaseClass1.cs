@@ -8,5 +8,9 @@ namespace TestGit
 {
     class ReleaseClass1
     {
+        void Message()
+        {
+            Console.WriteLine("Release1.1");
+        }
     }
 }
