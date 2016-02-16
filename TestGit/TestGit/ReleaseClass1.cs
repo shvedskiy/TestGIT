@@ -11,6 +11,7 @@ namespace TestGit
         void Message()
         {
             Console.WriteLine("Release1.1");
+            Console.WriteLine("Release1.1 ____ 2");
         }
     }
 }
